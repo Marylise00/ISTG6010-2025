@@ -1,26 +1,50 @@
 # Battleship Requirements Interview Report
 
 **Interviewer:** Marylise Iris  
-**Expert:** Battleship Game Enthusiast (Simulated)  
-**Date:** 03/22/2025
+**Interviewee:** Battleship Game Enthusiast (Simulated)  
+**Date:** March 20, 2025  
 
 ---
 
-## Questions & Answers
+## Interview Transcript
 
 **Q1: Can you explain the basic rules of Battleship?**  
-**A:** Battleship is a two-player strategy game where each player positions ships on a grid and tries to guess the location of the opponent’s ships by calling out grid coordinates.
+**A:** Sure! Battleship is a 2-player guessing game. Each player places a fleet of ships on their grid without the other seeing. Players then take turns guessing coordinates on the opponent's grid, trying to locate and sink their ships. The first player to sink all of the opponent’s ships wins.
 
-**Q2: What types of ships are used in the game?**  
-**A:** Each player has 5 ships: Carrier (5 spaces), Battleship (4), Cruiser (3), Submarine (3), and Destroyer (2).
+---
 
-**Q3: What are key game actions?**  
-**A:** Players place ships, take turns calling out coordinates, and mark hits/misses until all of one player’s ships are sunk.
+**Q2: What kinds of ships are typically used in the game?**  
+**A:** There are 5 ships per player:  
+- Carrier (5 spaces)  
+- Battleship (4 spaces)  
+- Cruiser (3 spaces)  
+- Submarine (3 spaces)  
+- Destroyer (2 spaces)  
 
-**Q4: What are common user frustrations or challenges?**  
-**A:** Confusion about turns, hard-to-see board layout, not tracking past guesses effectively.
+Each ship takes up a specific number of grid squares and can be placed either horizontally or vertically.
 
-**Q5: What makes the game engaging?**  
-**A:** Strategic guessing, deduction skills, and simple but competitive mechanics.
+---
+
+**Q3: What are the most important gameplay actions?**  
+**A:** The main actions include:  
+- Placing ships on the grid  
+- Calling out a coordinate on the opponent’s grid  
+- Marking hits or misses  
+- Tracking the status of your own ships  
+- Winning the game when all enemy ships are sunk
+
+---
+
+**Q4: What features would make the game more user-friendly as a software version?**  
+**A:** A clean grid layout, color indicators for hits/misses, simple drag-and-drop for placing ships, turn indicators, and maybe even a "fog of war" style animation would all improve the experience.
+
+---
+
+**Q5: What are some common challenges or frustrations players face?**  
+**A:** Sometimes players forget where they've already guessed. Also, it can be tricky to track which ships are left. If the grid is too cluttered or the interface isn't responsive, it ruins the strategic feel.
+
+---
+
+
 
 
