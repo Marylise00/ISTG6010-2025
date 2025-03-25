@@ -1,4 +1,4 @@
-# Battleship Requirements Interview Report
+Page 1 : Battleship Requirements Interview Report
 
 **Interviewer:** Marylise Iris  
 **Interviewee:** Battleship Game Enthusiast (Simulated)  
@@ -45,6 +45,8 @@ Each ship takes up a specific number of grid squares and can be placed either ho
 
 ---
 
+•	**Q6: What would improve the digital experience of Battleship?**
+**A:** Visual feedback, automatic ship tracking, and an onboarding tutorial would help.
 
 
 
